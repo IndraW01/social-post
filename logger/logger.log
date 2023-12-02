@@ -1,0 +1,56 @@
+{"level":"error","message":"Logger error"}
+{"errors":{"_original":{"name":"indra","password":"password","username":"indra01"},"details":[{"context":{"key":"confirm_password","label":"confirm_password"},"message":"\"confirm_password\" is required","path":["confirm_password"],"type":"any.required"},{"context":{"label":"value","main":"password","mainWithLabel":"password","peer":"confirm_password","peerWithLabel":"confirm_password","value":{"name":"indra","password":"password","username":"indra01"}},"message":"\"password\" missing required peer \"confirm_password\"","path":[],"type":"object.with"}]},"level":"error"}
+{"errors":{"_original":{"name":"indra","password":"password","username":"indra01"},"details":[{"context":{"key":"confirm_password","label":"confirm_password"},"message":"\"confirm_password\" is required","path":["confirm_password"],"type":"any.required"},{"context":{"label":"value","main":"password","mainWithLabel":"password","peer":"confirm_password","peerWithLabel":"confirm_password","value":{"name":"indra","password":"password","username":"indra01"}},"message":"\"password\" missing required peer \"confirm_password\"","path":[],"type":"object.with"}]},"level":"error"}
+{"errors":{"_original":{"name":"indra","password":"password","username":"indra01"},"details":[{"context":{"key":"confirm_password","label":"confirm_password"},"message":"\"confirm_password\" is required","path":["confirm_password"],"type":"any.required"},{"context":{"label":"value","main":"password","mainWithLabel":"password","peer":"confirm_password","peerWithLabel":"confirm_password","value":{"name":"indra","password":"password","username":"indra01"}},"message":"\"password\" missing required peer \"confirm_password\"","path":[],"type":"object.with"}]},"level":"error"}
+{"errors":{"_original":{"name":"indra","password":"password","username":"indra01"},"details":[{"context":{"key":"confirm_password","label":"confirm_password"},"message":"\"confirm_password\" is required","path":["confirm_password"],"type":"any.required"},{"context":{"label":"value","main":"password","mainWithLabel":"password","peer":"confirm_password","peerWithLabel":"confirm_password","value":{"name":"indra","password":"password","username":"indra01"}},"message":"\"password\" missing required peer \"confirm_password\"","path":[],"type":"object.with"}]},"level":"error"}
+{"errors":{"_original":{"confirm_password":"jamal","name":"indra","password":"password","username":"indra01"},"details":[{"context":{"key":"confirm_password","label":"confirm_password","valids":[{"adjust":null,"ancestor":1,"depth":1,"display":"ref:password","in":false,"iterables":null,"key":"password","map":null,"path":["password"],"root":"password","separator":".","type":"value"}],"value":"jamal"},"message":"confirm password is not the same as password","path":["confirm_password"],"type":"any.only"}]},"level":"error"}
+{"level":"error","status":400}
+{"level":"error","status":400}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'refresh_token')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'refresh_token')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'refresh_token')"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"expiredAt":"2023-11-29T09:11:49.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-11-29T09:11:49.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-11-29T09:11:49.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-11-29T09:11:49.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-11-29T09:16:44.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-11-29T09:18:14.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-11-29T09:18:14.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-11-29T09:20:10.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-11-29T09:20:10.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-11-29T09:21:59.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-12-01T13:15:12.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
+{"expiredAt":"2023-12-01T13:33:42.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError"}
